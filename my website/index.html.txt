@@ -41,6 +41,7 @@
 		<!-- Use the footer area to add static footer content, such as email and copyright info. -->
 		<footer>
 			<p>&copy; Copyright 2024. All Rights Reserved.</p>
+			<a href="/clintontriplett@westernwyoming.edu">about_me</a>
 		</footer>
 
 	</body>
