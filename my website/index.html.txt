@@ -19,7 +19,7 @@
 		<!-- Use the header area for the website name or logo. The header contains static content. -->
 		<header>
 			<h1>Clinton Triplett</h1>
-			<p> <img src="myWebsite/clintontriplett.jpg'>      </p>
+			<p> <img src="clintontriplett.jpg'>      </p>
 		</header>
 
 		<!-- Use the nav area to add hyperlinks to other pages within the website. It contains static content. -->
