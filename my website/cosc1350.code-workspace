@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "cosc1350",
+			"path": ".."
+		},
+		{
+			"name": "myWebsite",
+			"path": "../../../OneDrive/Documents/COSC1350/myWebsite"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cosc1350"
+	}
+}
